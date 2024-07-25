@@ -2,6 +2,8 @@
 
 This repository is a tutorial on application of k-means algorithm to segmentation of the solar images. We start by a simple examples of mall visitors dataset where the method is introduced. 
 
+![solar_image.png](solar_image.png)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
