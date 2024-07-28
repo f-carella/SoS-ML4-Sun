@@ -12,6 +12,8 @@ This repository is a tutorial on application of k-means algorithm to segmentatio
 
 ## Introduction
 
+The relevant lecture can be downloaded from [Summer of Science - Data Science](SoS - DataScience.pdf).
+
 The Jupyter Notebook document in this project showcases different examples and tutorials related to data analysis and machine learning. It covers topics such as data cleaning, exploratory data analysis, clustering algorithms, and more.
 
 ## Installation
